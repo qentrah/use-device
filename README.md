@@ -56,3 +56,7 @@ theme color tokens—belong in the consuming app and can be derived from this ho
 ## License
 
 MIT
+
+## Project links
+
+[Source](https://github.com/qentrah/use-device) · [Issues](https://github.com/qentrah/use-device/issues) · [Public project directory](https://github.com/qentrah/.github/blob/main/profile/PROJECTS.md)
